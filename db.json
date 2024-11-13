@@ -1,8 +1,8 @@
 {
   "zone-requests": [
-    { "id": "user001", "message": "QR code validated. Status set to IN" },
-    { "id": "user002", "message": "Already checked in" },
-    { "id": "user003", "message": "Requested zone is not accessible" },
+    { "id": 1, "message": "QR code validated. Status set to IN" },
+    { "id": 2, "message": "Already checked in" },
+    { "id": 3, "message": "Requested zone is not accessible" },
   ],
   "posts": [
     { "id": 1, "title": "Post 1" },
